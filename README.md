@@ -97,7 +97,9 @@ npm run cypress:open
 ## 📸 Screenshots
 (Add screenshots in `/public` folder and link them below)
 
-![Dashboard Screenshot](public/screenshot.png)
+![Dashboard Screenshot](public/1.png)
+![Favourite Screenshot](public/2.png)
+![Dark Mode with Search Screenshot](public/3.png)
 
 ---
 
