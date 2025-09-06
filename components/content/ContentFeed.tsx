@@ -143,12 +143,12 @@ export default function ContentFeed({ type = 'feed', allowReorder = false }: Con
     return (
       <div className="flex items-center justify-center py-12 text-center">
         <div>
-          <AlertCircle className="w-12 h-12 text-red-500 mx-auto mb-4" />
+          <AlertCircle className="w-12 h-12 text-green-500 mx-auto mb-4" />
           <h3 className="text-lg font-medium text-gray-900 dark:text-white mb-2">
-            Failed to load content
+            Your Favourite Card is Empty.
           </h3>
           <p className="text-gray-600 dark:text-gray-400">
-            Please check your API keys and try again.
+            Please mark your Favourite content.
           </p>
         </div>
       </div>
